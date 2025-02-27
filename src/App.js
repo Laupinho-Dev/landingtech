@@ -28,14 +28,6 @@ function App() {
             <div className="logo">
               <h3>Landing Tech</h3>
             </div>
-            <div className="item-menu">
-              <a href="https://www.linkedin.com/in/paulo-henrique-de-jesus-machado-a3366a339/">
-                Login
-              </a>
-              <a href="#">Home</a>
-              <a href="/">Fale Conosco</a>
-              <a href="*">Sobre Nós</a>
-            </div>
           </div>
         </div>
         <div className="welcome"></div>
