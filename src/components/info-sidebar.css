@@ -1,0 +1,51 @@
+.info-title {
+    position:absolute;
+    top: 0;
+    width: 380px;
+    padding: 30px 20px 10px 0px;
+    color: #27ffff;
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    gap: 0;
+    text-align: right;
+}
+
+.info-one {
+    color: white;
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0 10px 10px 10px;
+}
+
+.info-title-two {
+    color:#27ffff;
+    position:absolute;
+    padding: 10px 35px 300px 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.item-container {
+    text-align: right;
+    color: white;
+    justify-content: center;
+    position:absolute;
+    padding-right: 40px;
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.call-to-action {
+    color:#27ffff;
+    font-size: 14px;
+    text-align: right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 650px 35px 0px 5px;
+    gap: 10;
+}
+
+.email-signup {
+    color:white;
+    font-size: 16px;
+    padding: 0px 0px 0px 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
